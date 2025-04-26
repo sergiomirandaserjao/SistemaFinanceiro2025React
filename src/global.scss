@@ -1,0 +1,109 @@
+$gray: #787878;
+$blue: #009ef7;
+$red: #ff0505;
+$green: #02bf02;
+$purple: #7066e0;
+$opaque-purple: #7066e070;
+
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+		"Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.expense-color {
+	color: $red;
+}
+
+.income-color {
+	color: $green;
+}
+
+.form-control:focus,
+.form-check-input:focus {
+	border-color: transparent !important;
+	box-shadow: 0 0 0 1px $opaque-purple;
+}
+
+.form-check-input:checked {
+	background-color: $purple !important;
+	border-color: transparent !important;
+}
+
+.fit-content {
+	width: fit-content;
+}
+
+.text-muted {
+	color: $gray !important;
+}
+
+.fs-17 {
+	font-size: 17px;
+}
+
+.w-8 {
+	width: 2rem;
+}
+
+.w-40 {
+	width: 10rem;
+}
+
+.h-8 {
+	height: 2rem;
+}
+
+.bg-blue {
+	background-color: $blue;
+}
+
+.h-14 {
+	height: 14rem;
+}
+
+.mt-8 {
+	margin-top: 2rem !important;
+}
+
+.mt-10 {
+	margin-top: 2.5rem !important;
+}
+
+.mb-9 {
+	margin-bottom: 2.25rem !important;
+}
+
+.mt-n25 {
+	margin-top: -6.25rem !important;
+}
+
+.mx-12 {
+	margin-left: 3rem !important;
+	margin-right: 3rem !important;
+}
+
+.mx-18 {
+	margin-left: 4.5rem !important;
+	margin-right: 4.5rem !important;
+}
+
+.pt-8 {
+	padding-top: 2rem !important;
+}
+
+.px-9 {
+	padding-left: 2.25rem !important;
+	padding-right: 2.25rem !important;
+}
+
+.py-6 {
+	padding-top: 1.5rem !important;
+	padding-bottom: 1.5rem !important;
+}

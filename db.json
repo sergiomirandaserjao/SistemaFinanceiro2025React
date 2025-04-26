@@ -1,0 +1,30 @@
+{
+	"projects": [],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Salário",
+			"color": "#d80f8b"
+		},
+		{
+			"id": 2,
+			"name": "Investimentos",
+			"color": "#964b00"
+		},
+		{
+			"id": 3,
+			"name": "Alimentação",
+			"color": "#e20e0e"
+		},
+		{
+			"id": 4,
+			"name": "Faculdade",
+			"color": "#67bd13"
+		},
+		{
+			"id": 5,
+			"name": "Cartão de crédito",
+			"color": "#1c56ab"
+		}
+	]
+}

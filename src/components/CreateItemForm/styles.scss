@@ -1,0 +1,18 @@
+$green-water: #47be7d;
+$active-green-water: #50cd89;
+$purple: #7066e0;
+$active-purple: #6459dd;
+
+.button-purple {
+	background-color: $purple !important;
+	&:hover {
+		background-color: $active-purple !important;
+	}
+}
+
+.button-success {
+	background-color: $green-water !important;
+	&:hover {
+		background-color: $active-green-water !important;
+	}
+}
