@@ -18,7 +18,7 @@
 
 ## 🖥️ Sobre
 
-<p align="justify">O projeto tem como principal função gerenciar as receitas e os gastos de um usuário, gerando um balaço de gastos por mês e auxiliando no controle e  na aducação financeira.</p>
+<p align="justify">O projeto tem como principal função gerenciar as receitas e os gastos de um usuário, gerando um balanço de gastos por mês e auxiliando no controle e  na aducação financeira.</p>
 
 ## 🔧 Características
 
