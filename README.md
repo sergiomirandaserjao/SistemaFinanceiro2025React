@@ -2,7 +2,7 @@
 
 ## 🚀 Tecnologias
 
-<p>Projeto desenvolvido com as seguintes tecnologias:</p>
+<p>Projeto Desenvolvido com as seguintes tecnologias modernas </p>
 
 - React
 - TypeScript
@@ -55,7 +55,4 @@ OBS 2: o deploy desta aplicação está sendo feito <a href="https://financial-s
 
 ## 🐧 Autor
 
-<a href="https://github.com/NycolasCruz">
-    <img src="https://github.com/NycolasCruz.png"  width="15%">
-    <p>Nycolas Cruz</p>
-</a>
+Sérgio Miranda - Engenheiro de Software FullStack
